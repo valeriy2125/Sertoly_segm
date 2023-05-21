@@ -54,3 +54,8 @@ Analysis of differentially expressed genes confirms data from bulk RNA seq data.
 ![image](https://github.com/valeriy2125/Sertoly_segm/assets/101557211/dd834563-e7e5-4aeb-9537-721b892dbdd2)
 
 Fig. 5. The top 10 overexpressed and underexpressed genes for SLCs and SCs from scRNAseq data (genes correlated with bulk RNA seq data are marked in red)
+
+# Conclusions
+
+Identified SLC marker genes – Pax8, Sox17
+
