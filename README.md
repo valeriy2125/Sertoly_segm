@@ -22,7 +22,7 @@ RNA was isolated from each culture and sequenced. As a result, we got illumina s
 3) HISAT2 (v2.2.1) alignment
 4) featureCounts (v2.0.1) (getting counts table)
 5) DESeq2 (v1.26.0) (gene expression analysis in Rstudio)
-6) also we use Seurat3 for scRNAseq dataa
+6) also we use Seurat(v.4.1.1) for scRNAseq data
 
 
 
