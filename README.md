@@ -8,5 +8,5 @@ Aim:
 Define markers of the Sertoli-like cells
 
 Objectives:
-Search for differentially expressed SC and SLC genes
-Perform a GO enrichment analysis
+1) Search for differentially expressed SC and SLC genes
+2) Perform a GO enrichment analysis
