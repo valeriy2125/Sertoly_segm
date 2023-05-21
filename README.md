@@ -12,6 +12,21 @@ Objectives:
 1) Search for differentially expressed SC and SLC genes
 2) Perform a GO enrichment analysis
 # Methods
+We used assembled transcriptomes from culture of SLC and SC (three replicates for each point; Mus musculus)
+SLC and SC cultures were obtained from different parts of the testis (Fig. 1)
+RNA was isolated from each culture and sequenced. As a result, we got illumina single-end reads for each culture
+FastQC (v0.11.9)
+Samtools (v1.17)
+HISAT2 (v2.2.1) alignment
+featureCounts (v2.0.1) (getting counts table)
+DESeq2 (v1.26.0) (gene expression analysis in Rstudio)
+also we use Seurat3 for scRNAseq dataa
+
+
+
+
+
+
 ![image](https://github.com/valeriy2125/Sertoly_segm/assets/101557211/e64f54dd-8d81-4f20-81c4-fc1c0c95bc8f)
 
 Fig. 1. Scheme of isolation of cultures of SLCs and SCs
