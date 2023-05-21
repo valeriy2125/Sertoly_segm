@@ -23,12 +23,15 @@ RNA was isolated from each culture and sequenced. As a result, we got illumina s
 4) featureCounts (v2.0.1) (getting counts table)
 5) DESeq2 (v1.26.0) (gene expression analysis in Rstudio)
 6) also we use Seurat(v.4.1.1) for scRNAseq data
-
-
-
-
-
+R script is in the ...... files.
 
 ![image](https://github.com/valeriy2125/Sertoly_segm/assets/101557211/e64f54dd-8d81-4f20-81c4-fc1c0c95bc8f)
 
 Fig. 1. Scheme of isolation of cultures of SLCs and SCs
+
+# Results
+Data analysis showed, that the transcriptomes of SLCs and SCs cultures are different.
+862 of 20711 genes are differentially expressed. 549 are overexpressed, 313 are underexpressed (Fig. 2)
+![image](https://github.com/valeriy2125/Sertoly_segm/assets/101557211/bf27c54b-1444-4381-bad1-5dbc0d53013c)
+
+Fig. 2. Volcano plot differentially expressed genes. Gray - all genes, blue - Padj less than 0.05, LFC greater than 1 modulo, red - average TPM greater than 1
