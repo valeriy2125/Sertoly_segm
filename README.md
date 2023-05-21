@@ -41,4 +41,16 @@ The top 10 overexpressed and underexpressed genes in SLC and SC cultures are pre
 
 ![image](https://github.com/valeriy2125/Sertoly_segm/assets/101557211/b9de36a5-983b-4ffe-b012-0ccd1a6fb2d2)
 
-Fig. 3. The top 10 overexpressed and underexpressed genes for SLCs and SCs (Genes potentially suitable for further IGH are marked in red). The top 5 enriched terms for SLCs and SCs
+Fig. 3. The top 10 overexpressed and underexpressed genes for SLCs and SCs (ges potentially suitable for further IGH are marked in red). The top 5 enriched terms for SLCs and SCs
+
+The SLCs and SCs clusters were identified from open scRNAseq data. The population of SLCs is rather small, which may indirectly confirm the hypothesis that there is a niche of Sertoli stem cells in the local region of the transient zone. 
+
+![image](https://github.com/valeriy2125/Sertoly_segm/assets/101557211/6bb9cc38-f794-499e-bab9-e7fc21f00a08)
+
+Fig. 4. UMAP based on the testis scRNAseq data. The arrows indicate the SLC and SC cluster.
+
+Analysis of differentially expressed genes confirms data from bulk RNA seq data.
+
+![image](https://github.com/valeriy2125/Sertoly_segm/assets/101557211/dd834563-e7e5-4aeb-9537-721b892dbdd2)
+
+Fig. 5. The top 10 overexpressed and underexpressed genes for SLCs and SCs from scRNAseq data (genes correlated with bulk RNA seq data are marked in red)
