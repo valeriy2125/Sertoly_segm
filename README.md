@@ -39,6 +39,6 @@ Fig. 2. Volcano plot differentially expressed genes. Gray - all genes, blue - Pa
 
 The top 10 overexpressed and underexpressed genes in SLC and SC cultures are presented (Fig. 3). Pax8 and Sox17 genes are selected as potential markers of SLCs for further IGH studies. GO analysis showed differences between SLCs and SCs cultures in extensive term such as cytosol, membrane, and extracellular matrix. It is worth noting that an enrichment of the term "male gonad development" was shown for SLCs culture, which may indicate incomplete differentiation of SLCs (Fig. 3).
 
-![image](https://github.com/valeriy2125/Sertoly_segm/assets/101557211/27d5eb8d-864c-418c-8967-5feeb15e7bdf)
+![image](https://github.com/valeriy2125/Sertoly_segm/assets/101557211/b9de36a5-983b-4ffe-b012-0ccd1a6fb2d2)
 
 Fig. 3. The top 10 overexpressed and underexpressed genes for SLCs and SCs (Genes potentially suitable for further IGH are marked in red). The top 5 enriched terms for SLCs and SCs
