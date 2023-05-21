@@ -1,2 +1,4 @@
 # Search for markers of the Sertoli-like cell population we discovered
-test
+The main cells that ensure the course of spermatogenesis in vivo in mammals are Sertoli cells (SC). They are located in the spermatogenic epithelium of the convoluted seminal tubules of the testicle and provide the development and protection of germ cells. Such an important role makes SC a promising object for the development of in vitro spermatogenesis systems or methods for the treatment of male infertility, but the proliferation of this type of cells in culture is very difficult. 
+
+Recently, our laboratory, in the field of testicular network, discovered a new population of cells, which we called Sertoli-like cells (SLC). They have markers similar to SC genes, but active proliferation in culture. In addition, under conditions of 3D cultivation with neonatal SC, SLCs are able to support the development of germ cells up to the initial stages of meiosis. Thus, SLCs can become an alternative to neonatal SC in in vitro spermatogenesis technology, but a more accurate assessment of their transcriptome and the determination of marker genes is required.
