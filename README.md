@@ -12,5 +12,6 @@ Objectives:
 1) Search for differentially expressed SC and SLC genes
 2) Perform a GO enrichment analysis
 # Methods
-![image](https://github.com/valeriy2125/Sertoly_segm/assets/101557211/89f20d1d-2e01-4f1b-9e72-6ea5d99318b6)
-Fig. 1. 
+![image](https://github.com/valeriy2125/Sertoly_segm/assets/101557211/e64f54dd-8d81-4f20-81c4-fc1c0c95bc8f)
+
+Fig. 1. Scheme of isolation of cultures of SLCs and SCs
